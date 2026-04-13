@@ -1,2 +1,2 @@
 # Python-programs
-Exploring and learning python
+Exploring and learning python.
