@@ -8,4 +8,4 @@ def vow_replace(string, vowel):
  else:
  result += char
 
- return resul
+ return result
